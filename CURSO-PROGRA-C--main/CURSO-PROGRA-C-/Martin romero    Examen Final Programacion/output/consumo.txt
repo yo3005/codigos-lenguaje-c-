@@ -1,0 +1,7 @@
+fecha: 29/5/2023
+hora: 14:36
+Cliente: aaron
+D.N.I: 76645095
+Producto: repuesto
+Cantidad: 2
+................................
