@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <fstream>
 
-using namespace std;
+using namespace std;//clasesos lizadiut   
 
 class Persona1
 {
