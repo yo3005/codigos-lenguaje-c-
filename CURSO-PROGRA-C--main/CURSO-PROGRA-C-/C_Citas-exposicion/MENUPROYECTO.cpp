@@ -1,11 +1,5 @@
 /*
-PROYECTO FINAL DE PROGRAMACION ORIENTADA A OBJETOS
-2G 29/06/2020
-EQUIPO 2 INTEGRANTES 
-->GARCIA	CELEDON	JUAN	ISRAEL
-->SALAZAR	ORTIZ	JUAN	PABLO
-->BENITEZ	HERNANDEZ	KEVIN	ISRAEL
-*/
+PROYECTO FINAL DE PROGRAMACION ORIENTADA A OBJETOS*/
 #include<iostream>
 #include<fstream>
 #include<conio.h>
@@ -29,7 +23,7 @@ void AgrProd();
 
 int main(void){
 	Templeado registro, *array;
-    int tamanyo = sizeof(Templeado); // Tamaño de un registro
+    int tamanyo = sizeof(Templeado); // TamaÃ±o de un registro
     int i = 0, num_registros;
 	system("COLOR F4");
 	 system("color F4");
