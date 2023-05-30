@@ -2,7 +2,7 @@
 #include <math.h>
 #include <string>
 using namespace std;
-
+//clase curso
 class curso
 {
 private:
